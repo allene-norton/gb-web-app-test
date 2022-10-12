@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   // let userId= window.App.state.user.id
   // console.log(userId)
-  console.log(window.parent.document)
+  console.log("I am the web app!")
   return (
     <div className="App">
       <h1 className="header">GB test</h1>
