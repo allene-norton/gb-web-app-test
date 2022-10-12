@@ -4,7 +4,7 @@ function App() {
   // let userId= window.App.state.user.id
   // console.log(userId)
   console.log("I am the web app!")
-  console.log(window.parent.location)
+  console.log(window.location)
   return (
     <div className="App">
       <h1 className="header">GB test</h1>
