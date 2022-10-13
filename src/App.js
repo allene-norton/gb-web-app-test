@@ -28,7 +28,7 @@ function App() {
     .then(response => console.log(response))
     .catch(err => console.error(err));
   }
-  
+  getClient()
   return (
     <div className="App">
       <h1 className="header">GB test</h1>
